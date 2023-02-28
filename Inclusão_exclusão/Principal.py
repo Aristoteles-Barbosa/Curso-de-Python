@@ -1,4 +1,4 @@
-from Principal import*
+from Arquivo_2 import *
 
 # Digitar as opções inclusão, pesquisar, eclusão e listar
 
@@ -21,4 +21,4 @@ while opcao == "I" or opcao == "P" or opcao == "E" or opcao == "L":
 
     opcao = perguntar ()
 
-# Chamar a função do arquivo 2
+
